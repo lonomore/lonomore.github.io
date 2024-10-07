@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lonomore.github.io/sitemap.html.gz
+Sitemap: https://lonomore.github.io/app/sitemap.html.gz
+Sitemap: https://lonomore.github.io/assets/sitemap.html.gz
+Sitemap: https://lonomore.github.io/css/sitemap.html.gz
+Sitemap: https://lonomore.github.io/data/sitemap.html.gz
+Sitemap: https://lonomore.github.io/includes/sitemap.html.gz
+Sitemap: https://lonomore.github.io/item/sitemap.html.gz
+Sitemap: https://lonomore.github.io/src/sitemap.html.gz
